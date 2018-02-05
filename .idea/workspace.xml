@@ -29,8 +29,8 @@
       <file leaf-file-name="pagTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pagTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -186,12 +186,20 @@
       <workItem from="1517516043300" duration="4822000" />
       <workItem from="1517860083808" duration="872000" />
       <workItem from="1517861004070" duration="233000" />
-      <workItem from="1517861240773" duration="907000" />
+      <workItem from="1517861240773" duration="980000" />
     </task>
+    <task id="LOCAL-00001" summary="Test 1">
+      <created>1517862230755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517862230756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6834000" />
+    <option name="totallyTimeSpent" value="6907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="735" extended-state="6" />
@@ -248,6 +256,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -486,8 +498,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pagTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
